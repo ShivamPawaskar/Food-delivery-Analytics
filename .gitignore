@@ -1,0 +1,15 @@
+.env
+.venv/
+frontend/node_modules/
+frontend/dist/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/secrets.toml
+data/raw/*.csv
+data/processed/*.csv
+data/reports/*.json
+logs/*.log
+.vscode/
+run.txt
+
